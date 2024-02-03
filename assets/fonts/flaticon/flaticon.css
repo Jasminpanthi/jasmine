@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?48771ad45fbd747cddcb5fc03af931a2") format("truetype"), url("./flaticon.woff?48771ad45fbd747cddcb5fc03af931a2") format("woff"), url("./flaticon.woff2?48771ad45fbd747cddcb5fc03af931a2") format("woff2"), url("./flaticon.eot?48771ad45fbd747cddcb5fc03af931a2#iefix") format("embedded-opentype"), url("./flaticon.svg?48771ad45fbd747cddcb5fc03af931a2#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-creativity:before {
+    content: "\f101";
+}
+
+.flaticon-prototype:before {
+    content: "\f102";
+}
+
+.flaticon-creative-process:before {
+    content: "\f103";
+}
+
+.flaticon-design-thinking:before {
+    content: "\f104";
+}
+
+.flaticon-solution:before {
+    content: "\f105";
+}
+
+.flaticon-painting:before {
+    content: "\f106";
+}
+
+.flaticon-puzzle:before {
+    content: "\f107";
+}
+
+.flaticon-pencil:before {
+    content: "\f108";
+}
+
+.flaticon-concept:before {
+    content: "\f109";
+}
+
+.flaticon-creativity-1:before {
+    content: "\f10a";
+}
+
+.flaticon-creative-thinking:before {
+    content: "\f10b";
+}
+
+.flaticon-creativity-3:before {
+    content: "\f10c";
+}
+
+.flaticon-creative:before {
+    content: "\f10d";
+}
+
+.flaticon-creativity-2:before {
+    content: "\f10e";
+}
+
+.flaticon-creative-1:before {
+    content: "\f10f";
+}
